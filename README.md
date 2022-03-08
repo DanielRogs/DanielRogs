@@ -1,5 +1,4 @@
 # Welcome to my GitHub! ✌️ 
-<br>
 <!--
 **DanielRogs/DanielRogs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
