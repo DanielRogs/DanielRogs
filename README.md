@@ -43,6 +43,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height = "65" src = "https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height = "65" src = "https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height = "80" src = "https://cdn-icons-png.flaticon.com/512/5968/5968350.png">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height = "80" src = "https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
